@@ -1,5 +1,5 @@
 <?php
-// this script expects to be imported through composer.json
+// this script expects the CG library to be imported through composer.json
 require "./vendor/autoload.php";
 use Codenixsv\CoinGeckoApi\CoinGeckoClient;
 
